@@ -1,71 +1,18 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  font-family: 'Segoe UI', sans-serif;
+
+.alt {
+    color: pink;
 }
 
-body {
-  background-color: #121212;
-  color: #fff;
+#hihi {
+    color: blue
+    
 }
 
-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background-color: #1db954;
-  padding: 15px 30px;
-  position: fixed;
-  top: 0;
-  width: 100%;
+div {
+    color: green;
+    font-weight: 700;
 }
 
-.logo {
-  height: 40px;
-}
-
-nav a {
-  color: white;
-  margin-left: 20px;
-  text-decoration: none;
-  font-weight: bold;
-}
-
-main {
-  padding: 120px 30px 30px;
-}
-
-.song-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-}
-
-.song {
-  background-color: #282828;
-  border-radius: 8px;
-  padding: 15px;
-  width: 220px;
-  transition: transform 0.3s;
-}
-
-.song:hover {
-  transform: scale(1.05);
-}
-
-.song img {
-  width: 100%;
-  border-radius: 4px;
-}
-
-.song-info {
-  margin-top: 10px;
-}
-
-footer {
-  text-align: center;
-  padding: 20px;
-  background-color: #000;
-  color: #aaa;
+div .abc{
+    color: red;
 }

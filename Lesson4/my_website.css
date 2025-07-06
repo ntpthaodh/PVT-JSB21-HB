@@ -1,0 +1,28 @@
+.navigation-bar{
+    background: #1DB954;
+    width: 100%;
+    height: 48px;
+    position: fixed;
+}
+
+.content{
+    background: #212121;
+    width:100%;
+    height: 1366px;
+    padding-top: 48px;
+    color: white;
+}
+
+.promote{
+    color: black;
+    background: white;
+    position: absolute;
+    top: 100px;
+    right: 300px;
+}
+/* .scroll-top-btn{
+    background: white;
+    position: sticky;
+    bottom: 30px;
+    right: 10px;
+} */

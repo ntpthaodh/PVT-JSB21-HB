@@ -1,18 +1,3 @@
-
-.alt {
-    color: pink;
-}
-
-#hihi {
-    color: blue
-    
-}
-
-div {
-    color: green;
-    font-weight: 700;
-}
-
-div .abc{
-    color: red;
+.external-class {
+    color:aqua;
 }

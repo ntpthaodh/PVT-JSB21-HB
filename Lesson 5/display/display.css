@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+.child {
+    display: inline-block;
+    padding: 0.5em 1em;
+    background-color: #ccccff;
+    border: 1px solid #ababab;
+    color: black;
+}
+
+#example-element {
+    border: 3px dashed orange;
+    display: block;
+}
+
+.example-container {
+    width: 50%;
+    height: 50%;
+}

@@ -1,0 +1,17 @@
+
+header {
+text-align: center;
+background-color:rgb(13, 134, 29);
+display: block;
+position: sticky;
+top:0
+}
+body{
+text-align: left;
+
+}
+footer{
+text-align: center;
+display: block;
+background-color: #ccc;
+}

@@ -1,0 +1,12 @@
+
+div {
+display: block;
+background-color: darkolivegreen;
+padding: 10px;
+}
+span {
+display: inline;
+background-color: aliceblue;
+color: black;
+padding: 5px;
+}

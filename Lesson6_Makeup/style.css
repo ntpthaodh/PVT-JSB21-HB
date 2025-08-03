@@ -1,0 +1,17 @@
+.nut-nhan {
+    background-color: blue;
+    color: white;
+}
+
+nav{
+
+}
+
+#nut {
+    background-color: aliceblue;
+    color: white;
+    width: 50px;
+    height:100px;
+    font-size: 12px;
+    text-align: center;
+}
